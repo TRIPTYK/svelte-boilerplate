@@ -1,0 +1,1 @@
+<div class="mx-auto w-64 bg-purple-500 h-64"></div>
