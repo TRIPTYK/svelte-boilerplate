@@ -9,5 +9,5 @@ export default defineConfig({
         format: 'iife',
       },
     }
-  }
+  },
 })
